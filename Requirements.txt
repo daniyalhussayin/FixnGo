@@ -1,0 +1,3 @@
+-ASP.NET Web Forms (C#)
+-SQL Server
+-Local Maps API for location handling and coordinates conversion
